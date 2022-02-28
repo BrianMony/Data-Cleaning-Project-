@@ -1,1 +1,1 @@
-# Data-Cleaning-Project- R code tailored to clean large-scale data on a temperature-related experiment in readiness for analysis and interpretation. Attached is a compiled report explanatory of the entire process
+# Data-Cleaning-Project- R code tailored to clean large-scale data on a temperature-related experiment in readiness for analysis and interpretation.
